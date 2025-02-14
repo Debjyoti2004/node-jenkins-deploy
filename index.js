@@ -21,5 +21,5 @@ app.get('/contact', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Server is running at Port:${port}`);
+    console.log(`Server is running at PORT:${port}`);
 });
